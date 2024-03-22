@@ -1,1 +1,1 @@
-# odin-recipes
+# odin-recipes is a project made using various basic HTML skills that I have learnt, providing recipes to make dishes. I'll be showing that I have learnt how to use things like HTML: elements, tags, lists, images as well as displaying text in multiple ways once I've completed the project.
